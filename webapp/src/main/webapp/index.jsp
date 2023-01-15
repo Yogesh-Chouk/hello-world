@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning CUSTOM_Modify</h1>
     <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form 2nd line.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
