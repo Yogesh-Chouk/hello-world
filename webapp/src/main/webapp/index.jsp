@@ -24,7 +24,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
      
-    <label for="MiddleName"><b>Enter MiddleName</b></label>
+    <label for="MiddleName"><b>Enter MiddleName Please</b></label>
     <input type="text" placeholder="Enter Full Middle Name" name="MiddleName" id="MiddleName" required>
     <br>
     <hr>
